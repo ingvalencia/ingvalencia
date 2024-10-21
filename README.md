@@ -75,11 +75,17 @@ Egresado de la Facultad de Ingeniería de la UNAM con especialización en el des
 ## 🤖 Curiosidad divertida:
 - Puede que no siempre tenga las respuestas, pero seguramente tengo un `console.log()` para descubrirlas.
 
-## 💻 
 ```php
 function saludo($nombre) {
-    return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
+    if ($nombre) {
+        return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
+    } else {
+        // Uso de console.log() en un contexto de navegador para depuración
+        echo "<script>console.log('No se proporcionó ningún nombre, usando \"Visitante\" por defecto');</script>";
+        return "Hola, Visitante! Bienvenido a mi GitHub.";
+    }
 }
-echo saludo("Visitante");
+
+echo saludo(null); // No proporcionamos nombre para demostrar el uso de console.log()
 
 
