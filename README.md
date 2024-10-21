@@ -4,8 +4,7 @@ Hola, soy Jesús Alberto Giovanny Valencia Velázquez. Actualmente trabajo a tie
 
 En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de código abierto.
 
-- 🧑‍💻 ![GIF programando](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
-
+- 🧑‍💻 
 - 🚀 Especializado en PHP, React, JavaScript y administración de bases de datos.
 - 🐍 Actualmente aprendiendo Python y Kotlin.
 - 🍕 ¡Me encanta comer pizza!
@@ -89,5 +88,6 @@ function saludo($nombre) {
 // Simulamos que no se proporciona nombre para ver el mensaje.
 echo saludo(null); // No se proporcionó nombre, así que se mostrará un mensaje chusco en la consola.
 
+![GIF programando](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
 
 
