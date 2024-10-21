@@ -4,7 +4,7 @@ Hola, soy Jesús Alberto Giovanny Valencia Velázquez. Actualmente trabajo a tie
 
 En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de código abierto.
 
-- 🧑‍💻 Pronombres: Él
+- 🧑‍💻
 - 🚀 Especializado en PHP, React, JavaScript y administración de bases de datos.
 - 🐍 Actualmente aprendiendo Python y Kotlin.
 - 🍕 ¡Me encanta comer pizza!
