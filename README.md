@@ -6,19 +6,38 @@ En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de
 
 - 🧑‍💻 Pronombres: Él
 - 🚀 Especializado en PHP, React, JavaScript y administración de bases de datos.
-- 🐍 Actualmente aprendiendo Python y .Net .
+- 🐍 Actualmente aprendiendo Python y Kotlin.
 - 🍕 ¡Me encanta comer pizza!
 - 🎶 Disfruto tocando el piano en mi tiempo libre.
+
+---
+
+## 📊 Mi actividad en GitHub
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ingvalencia&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ingvalencia&layout=compact&theme=radical)
+
+---
 
 ## Sistemas Operativos con los que trabajo
 ![OS](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
 
 ## Mis Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+
+---
+
+## 💻 Ejemplo de código:
+```php
+function saludo($nombre) {
+    return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
+}
+echo saludo("Visitante");
 
 ## Tecnologías y Habilidades
 - **Front-End**: HTML, CSS, React.js, AJAX
@@ -60,5 +79,9 @@ Egresado de la Facultad de Ingeniería de la UNAM con especialización en el des
 - **Desarrollo de aplicaciones para dispositivos móviles** - *UNAM (Nov 2021 - Jun 2022)*  
   ID de la credencial: 27703 | Expedición: nov. 2021 · Vencimiento: jun. 2022  
   [Mostrar credencial](https://sigeco.cuaieed.unam.mx/valida.php)
+
+## 🤖 Curiosidad divertida:
+- Puede que no siempre tenga las respuestas, pero seguramente tengo un `console.log()` para descubrirlas.
+
 
 
