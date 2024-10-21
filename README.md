@@ -75,6 +75,7 @@ Egresado de la Facultad de Ingeniería de la UNAM con especialización en el des
 ## 🤖 Curiosidad divertida:
 - Puede que no siempre tenga las respuestas, pero seguramente tengo un `console.log()` para descubrirlas.
 
+## 💻 
 ```php
 function saludo($nombre) {
     if ($nombre) {
@@ -84,10 +85,9 @@ function saludo($nombre) {
         return "Hola, Visitante Misterioso! Bienvenido a mi GitHub.";
     }
 }
+echo saludo(null); 
 
-// Simulamos que no se proporciona nombre para ver el mensaje.
-echo saludo(null); // No se proporcionó nombre, así que se mostrará un mensaje chusco en la consola.
 
-![GIF programando](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
+
 
 
