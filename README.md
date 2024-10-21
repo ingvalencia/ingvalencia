@@ -32,8 +32,6 @@ En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de
 
 ---
 
-# Hola Mundo 👋
-
 ## 💻 
 ```php
 function saludo($nombre) {
