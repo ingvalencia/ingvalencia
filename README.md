@@ -31,15 +31,6 @@ En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 
 ---
-
-## 💻 
-```php
-function saludo($nombre) {
-    return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
-}
-echo saludo("Visitante");
-
-
 ## Tecnologías y Habilidades
 - **Front-End**: HTML, CSS, React.js, AJAX
 - **Back-End**: PHP, Node.js, ASP.Net
@@ -84,5 +75,11 @@ Egresado de la Facultad de Ingeniería de la UNAM con especialización en el des
 ## 🤖 Curiosidad divertida:
 - Puede que no siempre tenga las respuestas, pero seguramente tengo un `console.log()` para descubrirlas.
 
+## 💻 
+```php
+function saludo($nombre) {
+    return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
+}
+echo saludo("Visitante");
 
 
