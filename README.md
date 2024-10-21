@@ -80,12 +80,13 @@ function saludo($nombre) {
     if ($nombre) {
         return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
     } else {
-        // Uso de console.log() en un contexto de navegador para depuración
-        echo "<script>console.log('No se proporcionó ningún nombre, usando \"Visitante\" por defecto');</script>";
-        return "Hola, Visitante! Bienvenido a mi GitHub.";
+        echo "<script>console.log('Oops, parece que alguien olvidó su nombre. ¡Vamos a llamarlo \"Visitante Misterioso\"!');</script>";
+        return "Hola, Visitante Misterioso! Bienvenido a mi GitHub.";
     }
 }
 
-echo saludo(null); // No proporcionamos nombre para demostrar el uso de console.log()
+// Simulamos que no se proporciona nombre para ver el mensaje.
+echo saludo(null); // No se proporcionó nombre, así que se mostrará un mensaje chusco en la consola.
+
 
 
