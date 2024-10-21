@@ -6,7 +6,7 @@ En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de
 
 - 🧑‍💻 Pronombres: Él
 - 🚀 Especializado en PHP, React, JavaScript y administración de bases de datos.
-- 🐍 Actualmente aprendiendo Python y Kotlin.
+- 🐍 Actualmente aprendiendo Python y .Net .
 - 🍕 ¡Me encanta comer pizza!
 - 🎶 Disfruto tocando el piano en mi tiempo libre.
 
@@ -39,3 +39,26 @@ En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de
 - Desarrollo y mantenimiento de sistemas web en PHP y ASP.Net.
 - Administración de bases de datos MySQL y SQL Server.
 - Implementación de nuevas funcionalidades en sistemas existentes.
+
+**DGTIC (UNAM)**  
+*Desarrollador Web | Noviembre 2013 - Enero 2023, Ciudad de México, México*  
+- Desarrollo y mantenimiento de sistemas web en Java, PHP y JavaScript.
+- Migración y mantenimiento de aplicaciones y sitios web.
+- Administración de bases de datos Sybase, MySQL y SQL Server.
+- Rediseño de sistemas utilizando Laravel.
+- Participación en el diseño y desarrollo del Sistema Educativo para la UNAM, mejorando la eficiencia operativa y la experiencia del usuario.
+
+## Educación
+
+**Ingeniería en Computación**  
+*Universidad Nacional Autónoma de México (UNAM)*  
+Junio 2008 - Diciembre 2012  
+Egresado de la Facultad de Ingeniería de la UNAM con especialización en el desarrollo y mantenimiento de sistemas web y bases de datos.
+
+## Certificaciones y Cursos
+
+- **Desarrollo de aplicaciones para dispositivos móviles** - *UNAM (Nov 2021 - Jun 2022)*  
+  ID de la credencial: 27703 | Expedición: nov. 2021 · Vencimiento: jun. 2022  
+  [Mostrar credencial](https://sigeco.cuaieed.unam.mx/valida.php)
+
+
