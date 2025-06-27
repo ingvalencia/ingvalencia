@@ -1,93 +1,75 @@
-# Hola Mundo 👋
+# 👨‍🚀 Jesús Alberto Giovanny Valencia Velázquez
 
-Hola, soy Jesús Alberto Giovanny Valencia Velázquez. Actualmente trabajo a tiempo completo como Desarrollador Full Stack Senior en Recorcholis (Grupo Diniz).
+**🚨 Full Stack Developer | PHP Jedi | React Architect | Data Whisperer**
 
-En mi tiempo libre, trabajo en proyectos freelance y contribuyo a iniciativas de código abierto.
+¡Hola, mundo! Soy Giovanny, un arquitecto del código con más de 10 años construyendo sistemas robustos, eficientes y visualmente atractivos para empresas líderes como la UNAM, ANDA y Recorcholis (Grupo Diniz).
 
-- 🧑‍💻 
-- 🚀 Especializado en PHP, React, JavaScript y administración de bases de datos.
-- 🐍 Actualmente aprendiendo Python y Kotlin.
-- 🍕 ¡Me encanta comer pizza!
-- 🎶 Disfruto tocando el piano en mi tiempo libre.
+> 🧠 **Transformo ideas en software que respira.**  
+> 🔧 **Creo código que no solo funciona... sino que perdura.**
 
 ---
 
-## 📊 Mi actividad en GitHub
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=ingvalencia&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ingvalencia&layout=compact&theme=radical)
+## 🚀 Tech Stack de Combate
+
+| Frontend | Backend | Bases de Datos | DevOps & Others |
+|---------|---------|----------------|-----------------|
+| React ⚛️, HTML5, CSS3, Tailwind | PHP 8 🐘, Node.js ⚙️, ASP.NET 💼 | SQL Server, MySQL, Firebird 🔥 | Git 🧬, Jenkins ⚙️, Bash 🖥️, ODBC 🧩 |
 
 ---
 
-## Sistemas Operativos con los que trabajo
-![OS](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+## 🧠 Actualmente aprendiendo...
+> Python 🐍 para IA,  
+> Kotlin 📱 para apps móviles,  
+> y un poco más de paciencia cuando alguien dice: “solo es un cambiecito”.
 
 ---
 
-## Mis Lenguajes
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+## 🏆 Proyectos Insignia
+
+### 🎮 Recorcholis - Sistema Integral de Tickets & Carta Porte
+**Stack**: PHP 8, React, .NET, SQL Server  
+✅ Reduje tiempos de respuesta un 25%  
+✅ Trazabilidad completa para logística y atención a clientes
+
+### 💼 ANDA – Sistema Avanzado de Cobranza  
+**Stack**: ASP.Net, JavaScript, SQL Server  
+✅ Automatización de pagos  
+✅ Reducción drástica de errores manuales
+
+### 🎓 UNAM – Sistema Educativo Integral  
+**Stack**: PHP, Laravel, JavaScript  
+✅ Optimización de gestión académica para miles de usuarios  
+✅ Digitalización de procesos clave
 
 ---
-## Tecnologías y Habilidades
-- **Front-End**: HTML, CSS, React.js, AJAX
-- **Back-End**: PHP, Node.js, ASP.Net
-- **Bases de Datos**: MySQL, SQL Server, Oracle
-- **Herramientas**: Git, Jenkins, AWS, IBM Cognos
 
-## Experiencia Profesional
+## 📈 GitHub: Donde mis ideas cobran vida
+![Giovanny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingvalencia&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingvalencia&layout=compact&theme=merko)
 
-**Recorcholis (Grupo Diniz)**  
-*Programador Senior | Febrero 2024 - Actualidad, Ciudad de México, México*  
-- Desarrollo y mantenimiento de sistemas web con PHP 8 y React.
-- Administración de bases de datos MySQL y SQL Server.
-- Implementación de interfaces de usuario y desarrollo de APIs RESTful.
+---
 
-**ANDA (Asociación Nacional de Actores)**  
-*Programador Senior | Enero 2023 - Febrero 2024, Ciudad de México, México*  
-- Desarrollo y mantenimiento de sistemas web en PHP y ASP.Net.
-- Administración de bases de datos MySQL y SQL Server.
-- Implementación de nuevas funcionalidades en sistemas existentes.
+## 🔐 Filosofía de Código
+> "El código limpio es como una sinfonía silenciosa. No hace ruido... pero cambia todo."
 
-**DGTIC (UNAM)**  
-*Desarrollador Web | Noviembre 2013 - Enero 2023, Ciudad de México, México*  
-- Desarrollo y mantenimiento de sistemas web en Java, PHP y JavaScript.
-- Migración y mantenimiento de aplicaciones y sitios web.
-- Administración de bases de datos Sybase, MySQL y SQL Server.
-- Rediseño de sistemas utilizando Laravel.
-- Participación en el diseño y desarrollo del Sistema Educativo para la UNAM, mejorando la eficiencia operativa y la experiencia del usuario.
+---
 
-## Educación
+## 🎹 Fun Facts
+- Me relajo tocando el piano como si compusiera código musical 🎼  
+- Si la pizza fuera un lenguaje, ya tendría mi framework 🍕
 
-**Ingeniería en Computación**  
-*Universidad Nacional Autónoma de México (UNAM)*  
-Junio 2008 - Diciembre 2012  
-Egresado de la Facultad de Ingeniería de la UNAM con especialización en el desarrollo y mantenimiento de sistemas web y bases de datos.
+---
 
-## Certificaciones y Cursos
+## 🛠️ Modo CLI ON
+```bash
+> whoami
+Jesús Alberto Giovanny Valencia Velázquez
 
-- **Desarrollo de aplicaciones para dispositivos móviles** - *UNAM (Nov 2021 - Jun 2022)*  
-  ID de la credencial: 27703 | Expedición: nov. 2021 · Vencimiento: jun. 2022  
-  [Mostrar credencial](https://sigeco.cuaieed.unam.mx/valida.php)
+> mission --now
+Crear sistemas que no solo funcionen, sino que enamoren a quienes los usan.
 
-## 🤖 Curiosidad divertida:
-- Puede que no siempre tenga las respuestas, pero seguramente tengo un `console.log()` para descubrirlas.
+> skills --list
+[PHP, React, SQL, ASP.Net, Node.js, UX, Infraestructura, Refactorización, DevOps]
 
-## 💻 
-```php
-function saludo($nombre) {
-    if ($nombre) {
-        return "Hola, " . $nombre . "! Bienvenido a mi GitHub.";
-    } else {
-        echo "<script>console.log('Oops, parece que alguien olvidó su nombre. ¡Vamos a llamarlo \"Visitante Misterioso\"!');</script>";
-        return "Hola, Visitante Misterioso! Bienvenido a mi GitHub.";
-    }
-}
-echo saludo(null); 
-
-
-
-
-
+> motto
+"El caos solo existe hasta que alguien lo programa bien."
