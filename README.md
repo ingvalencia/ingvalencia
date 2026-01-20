@@ -37,7 +37,7 @@ Mi enfoque es transformar procesos operativos reales en **software robusto, traz
 - Tailwind
 
 ### Backend
-- PHP 5 / 7
+- PHP 5 / 7 / 8
 - Node.js
 - ASP.NET
 - .NET 8 (Workers)
