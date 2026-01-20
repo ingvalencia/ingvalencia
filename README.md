@@ -96,7 +96,7 @@ Mi enfoque es transformar procesos operativos reales en **software robusto, traz
 ## 📫 Contacto
 
 - GitHub: **@ingvalencia**
-- LinkedIn: *(agregar enlace si deseas)*
+
 
 ---
 
