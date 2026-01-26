@@ -69,6 +69,7 @@ Mi enfoque es transformar procesos operativos reales en **software robusto, traz
 - Diseño de modelos de datos y reglas de negocio.
 
 **Proyectos institucionales y empresariales**
+- DGIRE – UNAM
 - DGTIC – UNAM  
 - ANDA  
 - Grupo Diniz  
